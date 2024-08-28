@@ -25,7 +25,8 @@ Se exploraron los accesos a internet por localidad y tipo de tecnología (ADSL, 
 ### 4. Identificación de Outliers
 Se identificaron y visualizaron outliers en los DataFrames seleccionados utilizando diagramas de caja (boxplots) para las variables cuantitativas. Las gráficas mostraron que:
 
-![](Imagenes/imagen eda.JPG)
+![Gráfico de EDA](Imagenes/imagen eda.JPG)
+
 
 - **Fibra Óptica** es una tecnología predominante en ciertas localidades, con varios outliers que indican áreas con accesos significativamente altos.
 - **ADSL y Cablemodem** muestran una mayor variabilidad en el número de accesos, sugiriendo una distribución más dispersa entre localidades.
