@@ -25,8 +25,8 @@ Se exploraron los accesos a internet por localidad y tipo de tecnología (ADSL, 
 ### 4. Identificación de Outliers
 Se identificaron y visualizaron outliers en los DataFrames seleccionados utilizando diagramas de caja (boxplots) para las variables cuantitativas. Las gráficas mostraron que:
 
- ![Gráfico de EDA](Imagenes/imagen eda2.JPG)
-
+ ![Gráfico de EDA](Imagenes/foto_1.JPG)
+ ![Gráfico de EDA](Imagenes/foto_2.JPG)
 
 - **Fibra Óptica** es una tecnología predominante en ciertas localidades, con varios outliers que indican áreas con accesos significativamente altos.
 - **ADSL y Cablemodem** muestran una mayor variabilidad en el número de accesos, sugiriendo una distribución más dispersa entre localidades.
@@ -39,13 +39,19 @@ Se analizó la penetración de internet en hogares utilizando la pestaña `Penet
 
 ### 6. Evaluación de la Calidad de Conexión y Velocidades
 Se exploró la tecnología de conexión más prevalente en cada provincia y se visualizaron los accesos por tipo de tecnología. También se analizaron la calidad de la conexión a internet y la velocidad media descargada en diferentes provincias.
+![Gráfico de EDA](Imagenes/foto_3.JPG)
 
+![Gráfico de EDA](Imagenes/foto_4.JPG)
 ### 7. Análisis de Ingresos por Servicios de Internet
 Se evaluaron los ingresos generados por los servicios de internet para obtener una visión clara de la rentabilidad del servicio en diferentes regiones. Esto permitió identificar áreas con mayor potencial de crecimiento económico.
+![Gráfico de EDA](Imagenes/foto_5.JPG)
+![Gráfico de EDA](Imagenes/foto_6.JPG)
 
 ### 8. Identificación de Oportunidades de Expansión
 Se combinaron datos para identificar áreas donde se pueden implementar mejoras en la infraestructura tecnológica, enfocándose en regiones con baja velocidad de conexión o alta demanda de servicios para optimizar la calidad del servicio.
-
+![Gráfico de EDA](Imagenes/foto_7.JPG)
+![Gráfico de EDA](Imagenes/foto_8.JPG)
+![Gráfico de EDA](Imagenes/foto_9.JPG)
 ## Conclusión
 El análisis realizado proporciona una base sólida para la toma de decisiones estratégicas en la expansión y mejora de los servicios de internet en Argentina, identificando tanto áreas con alto potencial de crecimiento como regiones que requieren mejoras en infraestructura.
 
