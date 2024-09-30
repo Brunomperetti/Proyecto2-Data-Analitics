@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Accesos a Internet y Ingresos
+# Proyecto de Análisis de Accesos a Internet
 
 ## Introducción
 Este proyecto tiene como objetivo analizar los accesos a internet y los ingresos trimestrales en diferentes provincias de Argentina. Utilizamos KPIs para medir y monitorear el rendimiento en estas áreas.
